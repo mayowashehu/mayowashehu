@@ -1,4 +1,4 @@
-Hi, I’m Teslim Mayowa Shehu 👋
+Hi, I’m Teslim Mayowa Shehu.
 
 Frontend-Focused Full Stack Developer based in Nigeria.
 
@@ -8,7 +8,7 @@ I’m particularly interested in creating responsive user experiences, scalable 
 
 ⸻
 
-Current Focus
+- Current Focus
 
 * Building production-ready web applications
 * Improving backend engineering skills
@@ -17,7 +17,7 @@ Current Focus
 
 ⸻
 
-Technologies
+- Technologies
 
 Frontend
 
@@ -35,7 +35,7 @@ CSS
 
 Vite
 
-Backend
+- Backend
 
 Node.js
 
@@ -57,7 +57,7 @@ Vercel
 
 ⸻
 
-Featured Projects
+- Featured Projects
 
 ServiJoy
 
@@ -65,25 +65,37 @@ Modern service marketplace platform connecting customers with local service prov
 
 React • Vite • Tailwind CSS
 
+Live Demo:
+https://servijoy-v1.vercel.app
+
+Repository:
+https://github.com/mayowashehu/
+servijoy
+
 ⸻
 
 Scenture Lagos
 
 Luxury fragrance e-commerce storefront built with React.
 
-Live Demo
+Live Demo:
+https://scenturelagos.com.ng
 
-GitHub
-
+Repository:
+https://github.com/mayowashehu/
+scenture-lagos
 ⸻
 
 Alabama Onas Multibiz Enterprises
 
 Production-oriented land sales platform focused on customer trust.
 
-Live Demo
+Live Demo:
+https://alabamaland.com.ng
 
-GitHub
+Repository:
+https://github.com/mayowashehu/
+alabama-land
 
 ⸻
 
